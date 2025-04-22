@@ -23,10 +23,9 @@ Welcome to my daily coding challenges repository!
 2. Run each Python file for daily problems.
 ## My Contribution Activity
 
-![GitHub Contribution Graph](https://github.com/[Falcon37-tech].png?size=100)
+
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Version](https://img.shields.io/badge/Version-1.0-blue)
 ![Contributors](https://img.shields.io/badge/Contributors-1-blue)
-![Downloads](https://img.shields.io/badge/Downloads-500-brightgreen)
 
 
