@@ -5,9 +5,9 @@ markdown
 
 Welcome to my daily coding challenges repository!
 
-##Day 1: [Problem 1]()
+##Day 1: [Problem 1](Day1/Sorting1)
 - **Problem** : find the largest number in array.
-- **Solution** : [code]()
+- **Solution** : [code](Day1/Sorting1)
 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
