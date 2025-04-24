@@ -9,6 +9,10 @@ Welcome to my daily coding challenges repository!
 - **Problem** : find the largest number in array.
 - **Solution** : [code](Day1/Sorting1)
 
+##Day 2: [Problem 2]
+-**Problem** : Insert Inteval(Day1/Insert Interval.py)
+-**Solution** : [Code](Day1/Insert Interval.py)
+
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 
