@@ -6,12 +6,12 @@ markdown
 Welcome to my daily coding challenges repository!
 
 ##Day 1: [Problem 1](Day1/Sorting1)
-- **Problem** : find the largest number in array.
+- **Problem**: Find the largest number in array.
 - **Solution** : [code](Day1/Sorting1)
 
-##Day 2: [Problem 2]
--**Problem** : Insert Inteval(Day1/Insert Interval.py)
--**Solution** : [Code](Day1/Insert Interval.py)
+##Day 2: [Problem 2](Day1/Insert_Interval.py)
+-**Problem**: Insert Interval
+-**Solution** : [Code](Day1/Insert_Interval.py)
 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
