@@ -13,6 +13,10 @@ Welcome to my daily coding challenges repository!
 - **Problem**: Insert Interval
 - **Solution** : [Code](Day1/Insert_Interval.py)
 
+##Daya 3: [Problem 2](Day1/problem3.py)
+- **Problem**: Non Overlapping Intervals
+- **Solution**: [Code](Day1/problem3.py)
+
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 
