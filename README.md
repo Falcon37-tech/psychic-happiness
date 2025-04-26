@@ -18,8 +18,8 @@ Welcome to my daily coding challenges repository!
 - **Solution**: [Code](Day1/problem3.py)
 
 ##Day 4: [Problem 4](Day1/MergeWithoutSpace.py)
--**Problem**: Merge without extra
--**Solution**: [Code](Day1/MergeWithoutSpace.py)
+- **Problem**: Merge without extra
+- **Solution**: [Code](Day1/MergeWithoutSpace.py)
 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
