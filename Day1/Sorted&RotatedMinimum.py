@@ -1,5 +1,4 @@
 Todays problem is - 
-
 A sorted array of distinct elements arr[] is rotated at some unknown point, the task is to find the minimum element in it.
 
 Input: arr[] = [5, 6, 1, 2, 3, 4]
