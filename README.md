@@ -25,6 +25,10 @@ Welcome to my daily coding challenges repository!
 - **Problem**: Number of Occurances
 - **Solution**: [Code](Day1/NumberOfOccurance.py)
 
+##Day 6: [Problem](Day1/Sorted&RotatedMinimum.py)
+- **Problem0**: Sorted and Rotated Minimum
+- **Solution**: [Code](Day1/Sorted&RotatedMinimum.py)
+
 
 
 
