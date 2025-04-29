@@ -1,5 +1,7 @@
 # psychic-happiness
-markdown
+##NO EXCUSES ONLY CODING
+##NO ERROR ONLY OUTPUT
+##NO REGRETS ONLY RESULT
 
 #My Coding Challenges
 
