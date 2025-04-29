@@ -1,9 +1,12 @@
-# psychic-happiness
-##NO EXCUSES ONLY CODING
-##NO ERROR ONLY OUTPUT
-##NO REGRETS ONLY RESULT
+You are Young Now(Your Body + Mind is young Now, but not forever)
+Life Takes from Takers and Gives to Givers(You can't cheat it, that keepsa  very countable) 
+# NO EXCUSES ONLY CODING
 
-#My Coding Challenges
+# NO ERROR ONLY OUTPUT
+
+# NO REGRETS ONLY RESULT
+
+# My Coding Challenges
 
 Welcome to my daily coding challenges repository!
 
