@@ -22,6 +22,7 @@ Constraints:
 Solution
 
 Code - 
+##Approach 1 - Binary Search Algorithm
 
 class Solution:   
     def peakElement(self,arr):
@@ -43,3 +44,24 @@ class Solution:
                 right = mid - 1
         
         return -1
+
+
+##Approach 2 - Brute Force Algorithm
+
+def peakElement(arr):
+    n = len(arr)
+
+    for i in range(n):
+        left = True
+        right = True
+        # Check for the element to the left
+        if i > 0 and arr[i] <= arr[i - 1]:
+            left = False
+        # Check for the element to the right
+        if i < n - 1 and arr[i] <= arr[i + 1]:
+            right = False
+        # If arr[i] is greater than its left as well as
+        # the right element, return its index
+        if left and right:
+            return i
+
