@@ -38,6 +38,10 @@ Welcome to my daily coding challenges repository!
 - **Problem**: Search in Rotated Sorted Array
 - **Solution**: [Code](Day1/SearchinRotatedSortedArray.py)
 
+##Day 8: [Problem](Day1/PeakElement.py)
+- **Problem** : Peak Element
+- **Solution**: [Code](Day1/PeakElement.py)
+
 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
