@@ -42,7 +42,10 @@ Welcome to my daily coding challenges repository!
 - **Problem** : Peak Element
 - **Solution**: [Code](Day1/PeakElement.py)
 
-
+##Day 9: [Problem](Day1/Kth_Elementof_Twoarrays.py)
+- **Problem**: K-th element of two arrays
+- **Solution**: [Code](Day1/Kth_Elementof_Twoarrays.py)
+ 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 
