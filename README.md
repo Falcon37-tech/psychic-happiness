@@ -45,6 +45,10 @@ Welcome to my daily coding challenges repository!
 ##Day 9: [Problem](Day1/Kth_Elementof_Twoarrays.py)
 - **Problem**: K-th element of two arrays
 - **Solution**: [Code](Day1/Kth_Elementof_Twoarrays.py)
+
+##Day 10: [Probelm](Day1/AggressiveCow.py)
+- **Problem**: Aggressive Cows
+- **Solution**: [Code](Day1/AggressiveCow.py)
  
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
