@@ -49,6 +49,10 @@ Welcome to my daily coding challenges repository!
 ##Day 10: [Probelm](Day1/AggressiveCow.py)
 - **Problem**: Aggressive Cows
 - **Solution**: [Code](Day1/AggressiveCow.py)
+
+##Day 11: [Problem](Day1/AllocateMiniPages.py)
+- **Problem**: Allocated Minimum Pages
+- **Solution** [Code](Day1/AllocateMiniPages.py)
  
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
