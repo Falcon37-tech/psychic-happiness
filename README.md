@@ -53,6 +53,10 @@ Welcome to my daily coding challenges repository!
 ##Day 11: [Problem](Day1/AllocateMiniPages.py)
 - **Problem**: Allocated Minimum Pages
 - **Solution** [Code](Day1/AllocateMiniPages.py)
+
+##Day 12: [Problem](Day1/Kthmissingpositivenumber.py)
+-**Problem**: Kth Missing Positive Number
+-**Solution**: [Code](Day1/Kthmissingpositivenumber.py)
  
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
