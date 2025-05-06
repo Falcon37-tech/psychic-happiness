@@ -61,7 +61,10 @@ Welcome to my daily coding challenges repository!
 ##Days 13: [Problem](Day1/spirallytraversingofmatrix.py)
 - **Problem**: Spirally Traversing of Matrix
 - **Solution**: [Code](Day1/spirallytraversingofmatrix.py)
- 
+
+##Day 14: [Problem](Day1/matrixRotateby90degree.py)
+- **Problem**: Matrix Rotated by 90 degree
+- **Solution**: [Code](Day1/matrixRotateby90degree.py)
 
 
 
