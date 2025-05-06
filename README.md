@@ -55,12 +55,12 @@ Welcome to my daily coding challenges repository!
 - **Solution** [Code](Day1/AllocateMiniPages.py)
 
 ##Day 12: [Problem](Day1/Kthmissingpositivenumber.py)
--**Problem**: Kth Missing Positive Number
--**Solution**: [Code](Day1/Kthmissingpositivenumber.py)
+- **Problem**: Kth Missing Positive Number
+- **Solution**: [Code](Day1/Kthmissingpositivenumber.py)
 
 ##Days 13: [Problem](Day1/spirallytraversingofmatrix.py)
--**Problem**: Spirally Traversing of Matrix
--**Solution**: [Code](Day1/spirallytraversingofmatrix.py)
+- **Problem**: Spirally Traversing of Matrix
+- **Solution**: [Code](Day1/spirallytraversingofmatrix.py)
  
 
 
