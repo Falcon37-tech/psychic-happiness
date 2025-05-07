@@ -66,6 +66,9 @@ Welcome to my daily coding challenges repository!
 - **Problem**: Matrix Rotated by 90 degree
 - **Solution**: [Code](Day1/matrixRotateby90degree.py)
 
+##Day 15: [Problem](Day1/SearchinARowColumnSortedMatrix.py)
+- **Problem**: Search in a Row Column in a Sorted Matrix
+- **Solution**: [Code](Day1/SearchinARowColumnSortedMatrix.py)
 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
