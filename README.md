@@ -70,6 +70,10 @@ Welcome to my daily coding challenges repository!
 - **Problem**: Search in a Row Column in a Sorted Matrix
 - **Solution**: [Code](Day1/SearchinARowColumnSortedMatrix.py)
 
+##Day 16: [Problem](Day1/SearchInARowWiseSortedMatrix.py)
+- **Problem**: Search in a row-wise sorted matrix
+- **Solution**: [Code](Day1/SearchInARowWiseSortedMatrix.py)
+
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 
