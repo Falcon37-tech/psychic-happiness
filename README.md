@@ -78,6 +78,10 @@ Welcome to my daily coding challenges repository!
 - **Problem**: Search in a sorted matrix
 - **Solution**: [Code](Day1/SearchInTheSortedMatrix.py)
 
+##Day 18: [Problem](Next40Days/SetMatrixZeroes.py)
+- **Prohlem**: Set Matrix Zeroes
+- **Solution**: [Code](Next40Days/SetMatrixZeroes.py)
+
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 
