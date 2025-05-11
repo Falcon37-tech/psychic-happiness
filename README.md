@@ -82,6 +82,12 @@ Welcome to my daily coding challenges repository!
 - **Prohlem**: Set Matrix Zeroes
 - **Solution**: [Code](Next40Days/SetMatrixZeroes.py)
 
+##Day 19: [Problem](Next40Days/TwoSum_PairWithGivenSum.py)
+- **Problem**: Two Sum - Pair with Given Sum
+- **Solution**: [Code](Next40Days/TwoSum_PairWithGivenSum.py)
+
+
+
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 
