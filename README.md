@@ -86,6 +86,11 @@ Welcome to my daily coding challenges repository!
 - **Problem**: Two Sum - Pair with Given Sum
 - **Solution**: [Code](Next40Days/TwoSum_PairWithGivenSum.py)
 
+##Day20: [Problem](Next40Days/CountPairswithGivensum.py)
+- **Problem**: Count Pairs - With Given sum
+- **Solution**: [Code](Next40Days/CountPairswithGivensum.py)
+
+
 
 
 
