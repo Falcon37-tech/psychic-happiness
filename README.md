@@ -10,7 +10,7 @@ Life Takes from Takers and Gives to Givers(You can't cheat it, that keepsa  very
 
 Welcome to my daily coding challenges repository!
 
-#Topic *Sorting*
+# Topic *Sorting*
 
 ##Day 1: [Problem 1](Day1/Sorting1)
 - **Problem**: Find the largest number in the array
@@ -28,7 +28,7 @@ Welcome to my daily coding challenges repository!
 - **Problem**: Merge without extra
 - **Solution**: [Code](Day1/MergeWithoutSpace.py)
 
-#Topic *Searching*
+# Topic *Searching*
 
 ##Day 5: [Problem 5](Day1/NumberOfOccurance.py)
 - **Problem**: Number of Occurances
@@ -62,7 +62,7 @@ Welcome to my daily coding challenges repository!
 - **Problem**: Kth Missing Positive Number
 - **Solution**: [Code](Day1/Kthmissingpositivenumber.py)
 
-#Topic *Matrix*
+# Topic *Matrix*
 
 ##Days 13: [Problem](Day1/spirallytraversingofmatrix.py)
 - **Problem**: Spirally Traversing of Matrix
@@ -88,7 +88,7 @@ Welcome to my daily coding challenges repository!
 - **Prohlem**: Set Matrix Zeroes
 - **Solution**: [Code](Next40Days/SetMatrixZeroes.py)
 
-#Topic *Hashing*
+# Topic *Hashing*
 
 ##Day 19: [Problem](Next40Days/TwoSum_PairWithGivenSum.py)
 - **Problem**: Two Sum - Pair with Given Sum
