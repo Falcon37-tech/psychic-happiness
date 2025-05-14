@@ -102,6 +102,9 @@ Welcome to my daily coding challenges repository!
 - **Problem**: Find ALl Triplets with Zero Sum
 - **Solution**: [Code](Next40Days/FindAllTripletsWithZeroSum.py)
 
+##Day 22: [Pronlem](Next40Days/IntersectionofTwoArraysWithDuplicateElements.py)
+- **Problem**: Intersection Of Two Arrays With Duplicate Element
+- **Solution**: [Code](Next40Days/IntersectionofTwoArraysWithDuplicateElements.py)
 
 
 
