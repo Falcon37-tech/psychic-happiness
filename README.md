@@ -111,6 +111,9 @@ Welcome to my daily coding challenges repository!
 - **Problem**: Union of Arrays with Duplicate
 - **Solution**: [Code](Next40Days/UnionOfArraysWithDuplicate.py)
 
+##Day 24: [Problem](Next40Days/LongestConsecutiveSubsequence.py)
+- **Problem**: Longest Consecutive Subsequence
+- **Solution**: [Code](Next40Days/LongestConsecutiveSubsequence.py)
 
 
 
