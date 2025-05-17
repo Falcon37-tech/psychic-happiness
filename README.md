@@ -116,7 +116,7 @@ Welcome to my daily coding challenges repository!
 - **Solution**: [Code](Next40Days/LongestConsecutiveSubsequence.py)
 
 ##day 25: [Pronlem](Next40Days/PrintAnagramsTogether.py)
-- **Pronlem**: Print Anagramas together
+- **Problem**: Print Anagramas together
 - **Solution**: [Code](Next40Days/PrintAnagramsTogether.py)
 
 
