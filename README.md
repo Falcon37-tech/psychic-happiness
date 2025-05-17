@@ -115,6 +115,9 @@ Welcome to my daily coding challenges repository!
 - **Problem**: Longest Consecutive Subsequence
 - **Solution**: [Code](Next40Days/LongestConsecutiveSubsequence.py)
 
+##day 25: [Pronlem](Next40Days/PrintAnagramsTogether.py)
+- **Pronlem**: Print Anagramas together
+- **Solution**: [Code](Next40Days/PrintAnagramsTogether.py)
 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
