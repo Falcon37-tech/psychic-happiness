@@ -119,6 +119,10 @@ Welcome to my daily coding challenges repository!
 - **Problem**: Print Anagramas together
 - **Solution**: [Code](Next40Days/PrintAnagramsTogether.py)
 
+##Day 26: [Problem](Next40Days/SubarraysWithSumK.py)
+- **Problem**: Sub Arrays with sum K
+- **Solution**: [Code](Next40Days/SubarraysWithSumK.py)
+
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 
