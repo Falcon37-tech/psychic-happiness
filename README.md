@@ -123,6 +123,10 @@ Welcome to my daily coding challenges repository!
 - **Problem**: Sub Arrays with sum K
 - **Solution**: [Code](Next40Days/SubarraysWithSumK.py)
 
+##Day 27: [Problem](Next40Days/CountSubarrayswithgiveXOR.py)
+- **Problem**: Count Subarrays With Given XOR
+- **Solution**: [Code](Next40Days/CountSubarrayswithgiveXOR.py)
+
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 
