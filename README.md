@@ -127,6 +127,8 @@ Welcome to my daily coding challenges repository!
 - **Problem**: Count Subarrays With Given XOR
 - **Solution**: [Code](Next40Days/CountSubarrayswithgiveXOR.py)
 
+# Topic *Two Pointer Technique*
+
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 
