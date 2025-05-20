@@ -106,7 +106,6 @@ Welcome to my daily coding challenges repository!
 - **Problem**: Intersection Of Two Arrays With Duplicate Element
 - **Solution**: [Code](Next40Days/IntersectionofTwoArraysWithDuplicateElements.py)
 
-
 ##Day 23: [Problem](Next40Days/UnionOfArraysWithDuplicate.py)
 - **Problem**: Union of Arrays with Duplicate
 - **Solution**: [Code](Next40Days/UnionOfArraysWithDuplicate.py)
@@ -127,13 +126,13 @@ Welcome to my daily coding challenges repository!
 - **Problem**: Count Subarrays With Given XOR
 - **Solution**: [Code](Next40Days/CountSubarrayswithgiveXOR.py)
 
+# Topic *Two Pointer Technique*
+
 ##Day28: [Problem](Next40Days/CountAllTripletsWithGivenSumInSortedArrays.py)
 - **Problem**: Count All The Triplets With Given Sum In Sorted Arrays
 - **Solution**: [Code](Next40Days/CountAllTripletsWithGivenSumInSortedArrays.py)
 
 
-
-# Topic *Two Pointer Technique*
 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
