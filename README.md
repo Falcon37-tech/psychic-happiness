@@ -127,6 +127,12 @@ Welcome to my daily coding challenges repository!
 - **Problem**: Count Subarrays With Given XOR
 - **Solution**: [Code](Next40Days/CountSubarrayswithgiveXOR.py)
 
+##Day28: [Problem](Next40Days/CountAllTripletsWithGivenSumInSortedArrays.py)
+- **Problem**: Count All The Triplets With Given Sum In Sorted Arrays
+- **Solution**: [Code](Next40Days/CountAllTripletsWithGivenSumInSortedArrays.py)
+
+
+
 # Topic *Two Pointer Technique*
 
 
