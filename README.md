@@ -132,7 +132,9 @@ Welcome to my daily coding challenges repository!
 - **Problem**: Count All The Triplets With Given Sum In Sorted Arrays
 - **Solution**: [Code](Next40Days/CountAllTripletsWithGivenSumInSortedArrays.py)
 
-
+##Day 29: [Problem](Next40Days/CountPairsWhoseSumisLessThanTarget.py)
+- **Problem**: Count Pairs whose Sum is Less Than Target
+- **Solution**: [Code](Next40Days/CountPairsWhoseSumisLessThanTarget.py)
 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
