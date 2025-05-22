@@ -136,6 +136,12 @@ Welcome to my daily coding challenges repository!
 - **Problem**: Count Pairs whose Sum is Less Than Target
 - **Solution**: [Code](Next40Days/CountPairsWhoseSumisLessThanTarget.py)
 
+##Day 28: [Problem](Next40Days/SumPairClosestToTarget.py)
+- **Problem**: Sum Pair Closest to Target
+- **Solution**: [Code](Next40Days/SumPairClosestToTarget.py)
+
+
+
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 
