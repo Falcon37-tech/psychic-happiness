@@ -140,6 +140,10 @@ Welcome to my daily coding challenges repository!
 - **Problem**: Sum Pair Closest to Target
 - **Solution**: [Code](Next40Days/SumPairClosestToTarget.py)
 
+##Day 29: [Problem](Next40Days/PairWithGivenSuminSortedArrays.py)
+- **Problem**: Pair Witg Given Sum in Sorterd Arrays
+- **Solution**: [Code](Next40Days/PairWithGivenSuminSortedArrays.py)
+
 
 
 
