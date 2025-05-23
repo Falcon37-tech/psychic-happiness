@@ -1,170 +1,99 @@
-You are Young Now(Your Body + Mind is young Now, but not forever)
-Life Takes from Takers and Gives to Givers(You can't cheat it, that keepsa  very countable) 
-# NO EXCUSES ONLY CODING
+# 🚀 No Excuses, Only Execution
 
-# NO ERROR ONLY OUTPUT
+> **You're young — your mind & body too. Make every byte count.**  
+> **Life gives to givers and counts every cheat.**
 
-# NO REGRETS ONLY RESULT
+---
 
-# My Coding Challenges
+## 🔥 MANTRA
 
-Welcome to my daily coding challenges repository!
+- ❌ NO EXCUSES — ✅ ONLY CODING  
+- ❌ NO ERRORS — ✅ ONLY OUTPUT  
+- ❌ NO REGRETS — ✅ ONLY RESULTS
 
-# Topic *Sorting*
+---
 
-##Day 1: [Problem 1](Day1/Sorting1)
-- **Problem**: Find the largest number in the array
-- **Solution** : [code](Day1/Sorting1)
+# 🧠 Daily Coding Challenges by Kumar
 
-##Day 2: [Problem 2](Day1/Insert_Interval.py)
-- **Problem**: Insert Interval
-- **Solution** : [Code](Day1/Insert_Interval.py)
+Welcome to my personal coding challenge journey — solving one problem at a time, building mastery across **160 essential Interview Questions**, organized by topic and day.  
+I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerRank**, and sometimes... with a little help from my **PA 😉 ChatGPT!**
 
-##Day 3: [Problem 3](Day1/problem3.py)
-- **Problem**: Non Overlapping Intervals
-- **Solution**: [Code](Day1/problem3.py)
+---
 
-##Day 4: [Problem 4](Day1/MergeWithoutSpace.py)
-- **Problem**: Merge without extra
-- **Solution**: [Code](Day1/MergeWithoutSpace.py)
+## 📂 Topics Covered
 
-# Topic *Searching*
+### 🔃 Sorting
+- **Day 1:** [Find Largest in Array](Day1/Sorting1)
+- **Day 2:** [Insert Interval](Day1/Insert_Interval.py)
+- **Day 3:** [Non-overlapping Intervals](Day1/problem3.py)
+- **Day 4:** [Merge Without Extra Space](Day1/MergeWithoutSpace.py)
 
-##Day 5: [Problem 5](Day1/NumberOfOccurance.py)
-- **Problem**: Number of Occurances
-- **Solution**: [Code](Day1/NumberOfOccurance.py)
+### 🔍 Searching
+- **Day 5:** [Number of Occurrences](Day1/NumberOfOccurance.py)
+- **Day 6:** [Sorted & Rotated Minimum](Day1/Sorted&RotatedMinimum.py)
+- **Day 7:** [Search in Rotated Sorted Array](Day1/SearchinRotatedSortedArray.py)
+- **Day 8:** [Peak Element](Day1/PeakElement.py)
+- **Day 9:** [Kth Element of Two Arrays](Day1/Kth_Elementof_Twoarrays.py)
+- **Day 10:** [Aggressive Cows](Day1/AggressiveCow.py)
+- **Day 11:** [Allocate Minimum Pages](Day1/AllocateMiniPages.py)
+- **Day 12:** [Kth Missing Positive Number](Day1/Kthmissingpositivenumber.py)
 
-##Day 6: [Problem](Day1/Sorted&RotatedMinimum.py)
-- **Problem**: Sorted and Rotated Minimum
-- **Solution**: [Code](Day1/Sorted&RotatedMinimum.py)
+### 🧮 Matrix
+- **Day 13:** [Spiral Traversal](Day1/spirallytraversingofmatrix.py)
+- **Day 14:** [Rotate Matrix by 90°](Day1/matrixRotateby90degree.py)
+- **Day 15:** [Search in Row+Col Sorted Matrix](Day1/SearchinARowColumnSortedMatrix.py)
+- **Day 16:** [Row-wise Sorted Search](Day1/SearchInARowWiseSortedMatrix.py)
+- **Day 17:** [Sorted Matrix Search](Day1/SearchInTheSortedMatrix.py)
+- **Day 18:** [Set Matrix Zeroes](Next40Days/SetMatrixZeroes.py)
 
-#Day 7: [Problem](Day1/SearchinRotatedSortedArray.py)
-- **Problem**: Search in Rotated Sorted Array
-- **Solution**: [Code](Day1/SearchinRotatedSortedArray.py)
+### 🔑 Hashing
+- **Day 19:** [Two Sum](Next40Days/TwoSum_PairWithGivenSum.py)
+- **Day 20:** [Count Pairs with Given Sum](Next40Days/CountPairswithGivensum.py)
+- **Day 21:** [Triplets with Zero Sum](Next40Days/FindAllTripletsWithZeroSum.py)
+- **Day 22:** [Intersection with Duplicates](Next40Days/IntersectionofTwoArraysWithDuplicateElements.py)
+- **Day 23:** [Union of Arrays with Duplicates](Next40Days/UnionOfArraysWithDuplicate.py)
+- **Day 24:** [Longest Consecutive Subsequence](Next40Days/LongestConsecutiveSubsequence.py)
+- **Day 25:** [Print Anagrams Together](Next40Days/PrintAnagramsTogether.py)
+- **Day 26:** [Subarrays with Sum K](Next40Days/SubarraysWithSumK.py)
+- **Day 27:** [Count Subarrays with Given XOR](Next40Days/CountSubarrayswithgiveXOR.py)
 
-##Day 8: [Problem](Day1/PeakElement.py)
-- **Problem** : Peak Element
-- **Solution**: [Code](Day1/PeakElement.py)
+### ➿ Two Pointer Technique
+- **Day 28:** [Triplets with Given Sum (Sorted)](Next40Days/CountAllTripletsWithGivenSumInSortedArrays.py)
+- **Day 29:** [Count Pairs < Target](Next40Days/CountPairsWhoseSumisLessThanTarget.py)
+- **Day 30:** [Sum Pair Closest to Target](Next40Days/SumPairClosestToTarget.py)
+- **Day 31:** [Pair with Given Sum in Sorted Array](Next40Days/PairWithGivenSuminSortedArrays.py)
 
-##Day 9: [Problem](Day1/Kth_Elementof_Twoarrays.py)
-- **Problem**: K-th element of two arrays
-- **Solution**: [Code](Day1/Kth_Elementof_Twoarrays.py)
+---
 
-##Day 10: [Probelm](Day1/AggressiveCow.py)
-- **Problem**: Aggressive Cows
-- **Solution**: [Code](Day1/AggressiveCow.py)
+## 📌 Features
+- 🗓️ Daily coding questions
+- 🧠 Covers all core topics (Sorting, Searching, Hashing, Matrix, 2-Pointer)
+- 🔍 Code in Python with links to each solution
+- 🧪 Test-driven logic (most files are self-executable)
+- 🎯 GeeksforGeeks, LeetCode, HackerRank + ChatGPT = My Study Plan
 
-##Day 11: [Problem](Day1/AllocateMiniPages.py)
-- **Problem**: Allocated Minimum Pages
-- **Solution** [Code](Day1/AllocateMiniPages.py)
+---
 
-##Day 12: [Problem](Day1/Kthmissingpositivenumber.py)
-- **Problem**: Kth Missing Positive Number
-- **Solution**: [Code](Day1/Kthmissingpositivenumber.py)
+## 🛠️ How to Use
 
-# Topic *Matrix*
+1. **Clone** this repo  
+2. Go to any topic/day and run `.py` files  
+3. Read the logic, run the code, and *learn every damn line!*
 
-##Days 13: [Problem](Day1/spirallytraversingofmatrix.py)
-- **Problem**: Spirally Traversing of Matrix
-- **Solution**: [Code](Day1/spirallytraversingofmatrix.py)
+---
 
-##Day 14: [Problem](Day1/matrixRotateby90degree.py)
-- **Problem**: Matrix Rotated by 90 degree
-- **Solution**: [Code](Day1/matrixRotateby90degree.py)
-
-##Day 15: [Problem](Day1/SearchinARowColumnSortedMatrix.py)
-- **Problem**: Search in a Row Column in a Sorted Matrix
-- **Solution**: [Code](Day1/SearchinARowColumnSortedMatrix.py)
-
-##Day 16: [Problem](Day1/SearchInARowWiseSortedMatrix.py)
-- **Problem**: Search in a row-wise sorted matrix
-- **Solution**: [Code](Day1/SearchInARowWiseSortedMatrix.py)
-
-##Day 17: [Problem](Day1/SearchInTheSortedMatrix.py)
-- **Problem**: Search in a sorted matrix
-- **Solution**: [Code](Day1/SearchInTheSortedMatrix.py)
-
-##Day 18: [Problem](Next40Days/SetMatrixZeroes.py)
-- **Prohlem**: Set Matrix Zeroes
-- **Solution**: [Code](Next40Days/SetMatrixZeroes.py)
-
-# Topic *Hashing*
-
-##Day 19: [Problem](Next40Days/TwoSum_PairWithGivenSum.py)
-- **Problem**: Two Sum - Pair with Given Sum
-- **Solution**: [Code](Next40Days/TwoSum_PairWithGivenSum.py)
-
-##Day20: [Problem](Next40Days/CountPairswithGivensum.py)
-- **Problem**: Count Pairs - With Given sum
-- **Solution**: [Code](Next40Days/CountPairswithGivensum.py)
-
-##Day 21: [Problem](Next40Days/FindAllTripletsWithZeroSum.py)
-- **Problem**: Find ALl Triplets with Zero Sum
-- **Solution**: [Code](Next40Days/FindAllTripletsWithZeroSum.py)
-
-##Day 22: [Problem](Next40Days/IntersectionofTwoArraysWithDuplicateElements.py)
-- **Problem**: Intersection Of Two Arrays With Duplicate Element
-- **Solution**: [Code](Next40Days/IntersectionofTwoArraysWithDuplicateElements.py)
-
-##Day 23: [Problem](Next40Days/UnionOfArraysWithDuplicate.py)
-- **Problem**: Union of Arrays with Duplicate
-- **Solution**: [Code](Next40Days/UnionOfArraysWithDuplicate.py)
-
-##Day 24: [Problem](Next40Days/LongestConsecutiveSubsequence.py)
-- **Problem**: Longest Consecutive Subsequence
-- **Solution**: [Code](Next40Days/LongestConsecutiveSubsequence.py)
-
-##day 25: [Pronlem](Next40Days/PrintAnagramsTogether.py)
-- **Problem**: Print Anagramas together
-- **Solution**: [Code](Next40Days/PrintAnagramsTogether.py)
-
-##Day 26: [Problem](Next40Days/SubarraysWithSumK.py)
-- **Problem**: Sub Arrays with sum K
-- **Solution**: [Code](Next40Days/SubarraysWithSumK.py)
-
-##Day 27: [Problem](Next40Days/CountSubarrayswithgiveXOR.py)
-- **Problem**: Count Subarrays With Given XOR
-- **Solution**: [Code](Next40Days/CountSubarrayswithgiveXOR.py)
-
-# Topic *Two Pointer Technique*
-
-##Day28: [Problem](Next40Days/CountAllTripletsWithGivenSumInSortedArrays.py)
-- **Problem**: Count All The Triplets With Given Sum In Sorted Arrays
-- **Solution**: [Code](Next40Days/CountAllTripletsWithGivenSumInSortedArrays.py)
-
-##Day 29: [Problem](Next40Days/CountPairsWhoseSumisLessThanTarget.py)
-- **Problem**: Count Pairs whose Sum is Less Than Target
-- **Solution**: [Code](Next40Days/CountPairsWhoseSumisLessThanTarget.py)
-
-##Day 28: [Problem](Next40Days/SumPairClosestToTarget.py)
-- **Problem**: Sum Pair Closest to Target
-- **Solution**: [Code](Next40Days/SumPairClosestToTarget.py)
-
-##Day 29: [Problem](Next40Days/PairWithGivenSuminSortedArrays.py)
-- **Problem**: Pair Witg Given Sum in Sorterd Arrays
-- **Solution**: [Code](Next40Days/PairWithGivenSuminSortedArrays.py)
-
-
-
+## 📈 Badges
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-
-
-## Features:
-- Daily coding challenges.
-- Code solutions in Python.
-- Test-driven development (TDD).
-- 160 Days Interview coding questions challenge
-
-## Installation:
-1. Clone the repository.
-2. Run each Python file for daily problems.
-3. I'm using Geeks for Geeks + HackerRank + LeetCode + ChatGPT
-
-   
-
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Version](https://img.shields.io/badge/Version-1.0-blue)
 ![Contributors](https://img.shields.io/badge/Contributors-1-blue)
 
+---
 
+## 🧑‍💻 Author
+**Pujayant Kumar** — Learner. Doer. Future Engineer.
+
+---
+
+*“Code like a human. Think like a machine.”*
