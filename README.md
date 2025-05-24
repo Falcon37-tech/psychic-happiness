@@ -62,6 +62,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 29:** [Count Pairs < Target](Next40Days/CountPairsWhoseSumisLessThanTarget.py)
 - **Day 30:** [Sum Pair Closest to Target](Next40Days/SumPairClosestToTarget.py)
 - **Day 31:** [Pair with Given Sum in Sorted Array](Next40Days/PairWithGivenSuminSortedArrays.py)
+- **Day 32:** [Count The number of Possible Traiangle](Next40Days/CountTheNumberOfPossibleTriangle.py)
 
 ---
 
