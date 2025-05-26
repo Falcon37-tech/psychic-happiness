@@ -23,12 +23,14 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 ## 📂 Topics Covered
 
 ### 🔃 Sorting
+
 - **Day 1:** [Find Largest in Array](Day1/Sorting1)
 - **Day 2:** [Insert Interval](Day1/Insert_Interval.py)
 - **Day 3:** [Non-overlapping Intervals](Day1/problem3.py)
 - **Day 4:** [Merge Without Extra Space](Day1/MergeWithoutSpace.py)
 
 ### 🔍 Searching
+
 - **Day 5:** [Number of Occurrences](Day1/NumberOfOccurance.py)
 - **Day 6:** [Sorted & Rotated Minimum](Day1/Sorted&RotatedMinimum.py)
 - **Day 7:** [Search in Rotated Sorted Array](Day1/SearchinRotatedSortedArray.py)
@@ -63,7 +65,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 30:** [Sum Pair Closest to Target](Next40Days/SumPairClosestToTarget.py)
 - **Day 31:** [Pair with Given Sum in Sorted Array](Next40Days/PairWithGivenSuminSortedArrays.py)
 - **Day 32:** [Count The number of Possible Traiangle](Next40Days/CountTheNumberOfPossibleTriangle.py)
-- **Day 33**: [Indexes of subarray sum](Next40Days/IndexesofsubarrraySum.py)
+- **Day 33:** [Indexes of subarray sum](Next40Days/IndexesofsubarrraySum.py)
 - **Day 34:** [Count Distinct elements in Every Window](Next40Days/CountDistinctElementsineveryWindow.py)
 
 ---
