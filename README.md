@@ -72,6 +72,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 36:** [Trapping Rain Water](Next40Days/TrappingRainWater.py)
 - **Day 37:** [Container With Most Water](Next40Days/ContainerWithMostWater.py)
 - **Day 38:** [Equilibrium Point](Next40Days/EquilibriumPoint.py)
+- **Day 39:** [Longest Subarray with Sum K](Next40Days/LongestSubarraywithSumK.py)
 
 ### 🔢 Prefix Sum
 
