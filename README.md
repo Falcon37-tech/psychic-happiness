@@ -76,6 +76,11 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 38:** [Equilibrium Point](Next40Days/EquilibriumPoint.py)
 - **Day 39:** [Longest Subarray with Sum K](Next40Days/LongestSubarraywithSumK.py)
 - **Day 40:** [Largets Subarrays of 0's and 1's](Next40Days/LargestSubarraysOf_0's_and_1's.py)
+- **Day 41:** [Product Array Puzzle](Next40Days/ProductArrayPuzzle.py)
+
+### 🖇 Linked List
+- **Day 42:**
+- **Day 43:**
 
 
 ---
