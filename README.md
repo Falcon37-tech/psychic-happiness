@@ -79,7 +79,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 41:** [Product Array Puzzle](Next40Days/ProductArrayPuzzle.py)
 
 ### 🖇 Linked List
-- **Day 42:**
+- **Day 42:** [Reversed A Linked List](Next40Days/ReversedALinkedList.py)
 - **Day 43:**
 
 
