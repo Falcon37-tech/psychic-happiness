@@ -80,8 +80,8 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 
 ### 🖇 Linked List
 - **Day 42:** [Reversed A Linked List](Next40Days/ReversedALinkedList.py)
-- **Day 43:**
-
+- **Day 43:** [Rotated A Linked List](Next40Days/RotatedALinkedList.py)
+- **Day 44:**
 
 ---
 
