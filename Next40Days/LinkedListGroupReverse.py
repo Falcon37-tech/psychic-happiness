@@ -33,13 +33,18 @@ class Solution:
             while curr and count < k:
                 next = curr.next
                 curr.next = prev
+                
                 prev = curr
                 curr = next
+                
                 count += 1
                 
             if newHead is None:
                 newHead = prev
+                
             if tail is not None:
                 tail.next = prev
+                
             tail = groupHead
+            
         return newHead
