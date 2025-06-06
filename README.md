@@ -81,7 +81,9 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 42:** [Reversed A Linked List](Next40Days/ReversedALinkedList.py)
 - **Day 43:** [Rotated A Linked List](Next40Days/RotatedALinkedList.py)
 - **Day 44:** [Merged Two Sorted Linked List](Next40Days/MergeTwoSortedLinkedList.py)
-- **Day 45:**
+- **Day 45:** [Linked List Group Reverse](Next40Days/LinkedListGroupReverse.py)
+- **Day 46:**
+- **Day 47:**
 
 ---
 
