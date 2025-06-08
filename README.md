@@ -83,6 +83,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 41:** [Product Array Puzzle](Next40Days/ProductArrayPuzzle.py)
 
 ### 🖇 Linked List
+
 - **Day 42:** [Reversed A Linked List](Next40Days/ReversedALinkedList.py)
 - **Day 43:** [Rotated A Linked List](Next40Days/RotatedALinkedList.py)
 - **Day 44:** [Merged Two Sorted Linked List](Next40Days/MergeTwoSortedLinkedList.py)
@@ -95,6 +96,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 ---
 
 ## 📌 Features
+
 - 🗓️ Daily coding questions
 - 🧠 Covers all core topics (Sorting, Searching, Hashing, Matrix, 2-Pointer)
 - 🔍 Code in Python with links to each solution
