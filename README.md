@@ -21,7 +21,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 
 ---
 
-## 📂 Topics Covered are Below
+## 📂 Topics Covered are Given Below
 
 ### 🔃 Sorting
 
