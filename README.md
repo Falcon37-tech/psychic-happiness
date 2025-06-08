@@ -51,6 +51,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 18:** [Set Matrix Zeroes](Next40Days/SetMatrixZeroes.py)
 
 ### 🔑 Hashing
+
 - **Day 19:** [Two Sum](Next40Days/TwoSum_PairWithGivenSum.py)
 - **Day 20:** [Count Pairs with Given Sum](Next40Days/CountPairswithGivensum.py)
 - **Day 21:** [Triplets with Zero Sum](Next40Days/FindAllTripletsWithZeroSum.py)
@@ -62,6 +63,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 27:** [Count Subarrays with Given XOR](Next40Days/CountSubarrayswithgiveXOR.py)
 
 ### ➿ Two Pointer Technique
+
 - **Day 28:** [Triplets with Given Sum (Sorted)](Next40Days/CountAllTripletsWithGivenSumInSortedArrays.py)
 - **Day 29:** [Count Pairs < Target](Next40Days/CountPairsWhoseSumisLessThanTarget.py)
 - **Day 30:** [Sum Pair Closest to Target](Next40Days/SumPairClosestToTarget.py)
@@ -74,6 +76,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 37:** [Container With Most Water](Next40Days/ContainerWithMostWater.py)
 
 ### 🔢 Prefix Sum
+
 - **Day 38:** [Equilibrium Point](Next40Days/EquilibriumPoint.py)
 - **Day 39:** [Longest Subarray with Sum K](Next40Days/LongestSubarraywithSumK.py)
 - **Day 40:** [Largets Subarrays of 0's and 1's](Next40Days/LargestSubarraysOf_0's_and_1's.py)
