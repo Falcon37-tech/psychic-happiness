@@ -42,6 +42,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 12:** [Kth Missing Positive Number](Day1/Kthmissingpositivenumber.py)
 
 ### 🧮 Matrix
+
 - **Day 13:** [Spiral Traversal](Day1/spirallytraversingofmatrix.py)
 - **Day 14:** [Rotate Matrix by 90°](Day1/matrixRotateby90degree.py)
 - **Day 15:** [Search in Row+Col Sorted Matrix](Day1/SearchinARowColumnSortedMatrix.py)
