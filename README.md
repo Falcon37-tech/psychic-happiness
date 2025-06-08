@@ -5,6 +5,7 @@
 > **Life gives to givers and counts every cheat.**
 
 ---
+
 ## 🔥 MANTRA
 
 - ❌ NO EXCUSES — ✅ ONLY CODING  
@@ -20,7 +21,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 
 ---
 
-## 📂 Topics Covered
+## 📂 Topics Covered are Below
 
 ### 🔃 Sorting
 
