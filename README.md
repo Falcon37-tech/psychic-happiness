@@ -90,8 +90,9 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 45:** [Linked List Group Reverse](Next40Days/LinkedListGroupReverse.py)
 - **Day 46:** [Add Number Linked List](Next40Days/AddNumberLinkedList.py)
 - **Day 47:** [Clone List with Next and Random](Next40Days/CloneListwithNextandRandom.py)
-- **Day 48:**
+- **Day 48:** [Detect Loop in Linked List](Next40Days/DetecctLoopInLinkedList.py)
 - **Day 49:**
+- **Day 50:**
 
 ---
 
