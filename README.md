@@ -93,7 +93,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 48:** [Detect Loop in Linked List](Next40Days/DetecctLoopInLinkedList.py)
 - **Day 49:** [Find the first node of loop in linked list](Next40Days/FindTheFirstNodeofLoopinLinkedList.py)
 - **Day 50:** [Remove Loop in Linked List](Next40Days/RemoveLoopInLinkedList.py)
-- **Day 51:**
+- **Day 51:** [L R U Cache](Next40Days/LRUCache.py)
 - **Day 52:**
 
 ---
