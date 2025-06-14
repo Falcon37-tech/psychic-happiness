@@ -98,6 +98,9 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 ### Recursion & Backtracking
 
 - **Day 52:** [Permutation of a String](Next40Days/PermutationOfAString.py)
+- **Day 53:** [Implement Pow](Next40Days/ImplementPow.py)
+- **Day 54:**
+- **Day 55:**
 
 ---
 
