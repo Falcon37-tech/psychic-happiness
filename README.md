@@ -95,7 +95,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 50:** [Remove Loop in Linked List](Next40Days/RemoveLoopInLinkedList.py)
 - **Day 51:** [L R U Cache](Next40Days/LRUCache.py)
 
-### Recursion & Backtracking
+### 🔁 Recursion & 🔙 Backtracking
 
 - **Day 52:** [Permutation of a String](Next40Days/PermutationOfAString.py)
 - **Day 53:** [Implement Pow](Next40Days/ImplementPow.py)
