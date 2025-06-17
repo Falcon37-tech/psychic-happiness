@@ -100,7 +100,8 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 53:** [Implement Pow](Next40Days/ImplementPow.py)
 - **Day 54:** [N Queen Problem](Next40Days/nQueenProbolem.py)
 - **Day 55:** [Solve The Sudoku](Next40Days/SolveTh3Sudoku.py)
-- **Day 56:**
+- **Day 56:** [Word Search](Next40Days/WordSearch.py)
+
 
 ---
 
