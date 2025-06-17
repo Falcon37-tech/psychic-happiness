@@ -102,7 +102,13 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 55:** [Solve The Sudoku](Next40Days/SolveTh3Sudoku.py)
 - **Day 56:** [Word Search](Next40Days/WordSearch.py)
 
+### 🌳 Tree
 
+- **Day 57:**
+- **Day 58:**
+- **Day 59:**
+- **Day 60:**
+- 
 ---
 
 ## 📌 Features
