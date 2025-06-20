@@ -106,7 +106,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 
 - **Day 57:** [Level Order Traversal](Next40Days/LevelOrderTraversal.py)
 - **Day 58:** [Height of a Binary tree](Next40Days/HeightOfBinaryTree.py)
-- **Day 59:**
+- **Day 59:** [Diameter of a Binary Tree](Next40Days/DiameterofaBinaryTree.py)
 - **Day 60:**
 - 
 ---
