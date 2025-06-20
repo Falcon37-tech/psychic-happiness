@@ -15,8 +15,8 @@ Output: 4
 Explanation: The longest path has 4 edges (node 3 -> node 8 -> node 5 -> node 6 -> node 9).
 
 Constraints:
-1 ≤ number of nodes ≤ 105
-0 ≤ node->data ≤ 105
+1 ≤ number of nodes ≤ 10^5
+0 ≤ node->data ≤ 10^5
 
 Solution
 Code -
