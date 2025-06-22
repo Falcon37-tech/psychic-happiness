@@ -108,7 +108,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 58:** [Height of a Binary tree](Next40Days/HeightOfBinaryTree.py)
 - **Day 59:** [Diameter of a Binary Tree](Next40Days/DiameterofaBinaryTree.py)
 - **Day 60:** [Mirror Tree](Next40Days/MirrorTree.py)
-- **Day 61:**
+- **Day 61:** [Construct Tree From Order & Inrder](Next40Days/ConstructTreeFromOrder&Inorder.py)
 - **Day 62:**
 - **Day 63:**
 - **Day 64:**
