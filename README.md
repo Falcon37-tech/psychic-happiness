@@ -109,7 +109,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 59:** [Diameter of a Binary Tree](Next40Days/DiameterofaBinaryTree.py)
 - **Day 60:** [Mirror Tree](Next40Days/MirrorTree.py)
 - **Day 61:** [Construct Tree From Order & Inrder](Next40Days/ConstructTreeFromOrder&Inorder.py)
-- **Day 62:**
+- **Day 62:** [Inorder Traversal](Next40Days/InorderTraversal.py)
 - **Day 63:**
 - **Day 64:**
 - **Day 65:**
