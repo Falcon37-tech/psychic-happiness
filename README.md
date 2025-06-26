@@ -112,7 +112,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 62:** [Inorder Traversal](Next40Days/InorderTraversal.py)
 - **Day 63:** [Tree Boundary Traversal](Next40Days/TreeBoundaryTraversal.py)
 - **Day 64:** [Maximum Path Sum From Any Node](Next40Days/MaximumPathSumFromAnyNode.py)
-- **Day 65:**
+- **Day 65:** [K Sum Path](Next40Days/KSumPath.py)
 - **Day 66:**
 
 ---
