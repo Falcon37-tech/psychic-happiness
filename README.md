@@ -114,7 +114,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 64:** [Maximum Path Sum From Any Node](Next40Days/MaximumPathSumFromAnyNode.py)
 - **Day 65:** [K Sum Path](Next40Days/KSumPath.py)
 - **Day 66:** [Check For BST](Next40Days/CheckForBST.py)
-- **Day 67:**
+- **Day 67:** [K th Smallest in BST](Next40Days/KthSmallestInBST.py)
 - **Day 68:**
 
 ---
