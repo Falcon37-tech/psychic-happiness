@@ -116,7 +116,9 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 66:** [Check For BST](Next40Days/CheckForBST.py)
 - **Day 67:** [K th Smallest in BST](Next40Days/KthSmallestInBST.py)
 - **Day 68:** [Pair Sum in BST](Next40Days/PairSumInBST.py)
-- **Day 69:**
+- **Day 69:** [Fixinfg Two Nodes Of A BST](Next40Days/FixingTwoNodesofaBST.py)
+- **Day 70:**
+- **Day 71:**
 
 ---
 
