@@ -118,7 +118,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 68:** [Pair Sum in BST](Next40Days/PairSumInBST.py)
 - **Day 69:** [Fixinfg Two Nodes Of A BST](Next40Days/FixingTwoNodesofaBST.py)
 - **Day 70:** [Lowest Common Ancestor In A BST](NextNext40Days/LowestCommonAncestorInaBST.py)
-- **Day 71:**
+- **Day 71:** [Serialize & Deserialize a Binary Tree](NextNext40Days/Serialize&DeserializeaBinaryTree.py)
 
 ---
 
