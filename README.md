@@ -122,7 +122,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 
 ### 💻 Heap
 
-- **Day72:** [K Largest Element](NextNext40Days/KLargestElement.py)
+- **Day 72:** [K Largest Element](NextNext40Days/KLargestElement.py)
 
 
 ---
