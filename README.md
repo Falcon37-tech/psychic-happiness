@@ -124,7 +124,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 
 - **Day 72:** [K Largest Element](NextNext40Days/KLargestElement.py)
 - **Day 73:** [K Closest Points to Origin](NextNext40Days/KClosestPointstoOrigin.py)
-- **Day 74:**
+- **Day 74:** [Merge K Sorted Linked Lists](NextNext40Days/MergeKsortedLinkedList.py)
 - **Day 75:**
 
 
