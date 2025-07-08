@@ -132,7 +132,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 ### Stack
 
 - **Day 76:** [Parenthesis Checker](NextNext40Days/ParenthesisChecker.py)
-- **Day 77:**
+- **Day 77:** [Longest Valid Parenthesis](
 - **Day 78:**
 - **Day 79:**
 
