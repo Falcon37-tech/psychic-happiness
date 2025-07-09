@@ -133,7 +133,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 
 - **Day 76:** [Parenthesis Checker](NextNext40Days/ParenthesisChecker.py)
 - **Day 77:** [Longest Valid Parenthesis](NextNext40Days/LongestValidParenthesis.py)
-- **Day 78:**
+- **Day 78:** [Next Grater Element](NextNext40Days/NectGreaterelemet.py)
 - **Day 79:**
 
 ## 📌 Features
