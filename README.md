@@ -135,7 +135,8 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 77:** [Longest Valid Parenthesis](NextNext40Days/LongestValidParenthesis.py)
 - **Day 78:** [Next Grater Element](NextNext40Days/NectGreaterelemet.py)
 - **Day 79:** [Stock Span Problem](NextNext40Days/StockSpanProblem.py)
-- **Day 80:**
+- **Day 80:** [Histogram MAx rectangular area](NextNext40Days/HistogramMaxRectangularArea.py)
+- **Day 81:**
 
 ## 📌 Features
 
