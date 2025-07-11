@@ -127,8 +127,6 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 74:** [Merge K Sorted Linked Lists](NextNext40Days/MergeKsortedLinkedList.py)
 - **Day 75:** [Find Median in a Stream](NextNext40Days/FindMeadianInAStream.py)
 
----
-
 ### Stack
 
 - **Day 76:** [Parenthesis Checker](NextNext40Days/ParenthesisChecker.py)
@@ -137,6 +135,8 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 79:** [Stock Span Problem](NextNext40Days/StockSpanProblem.py)
 - **Day 80:** [Histogram MAx rectangular area](NextNext40Days/HistogramMaxRectangularArea.py)
 - **Day 81:**
+
+---
 
 ## 📌 Features
 
