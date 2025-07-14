@@ -136,7 +136,8 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 80:** [Histogram MAx rectangular area](NextNext40Days/HistogramMaxRectangularArea.py)
 - **Day 81:** [Max of min for every Window Size](NextNext40Days/MaxofMinForEveryWindowSize.py)
 - **Day 82:** [Get min From Stack](NextNext40Days/GetMinfromStack.py)
-- **Day 83:**
+- **Day 83:** [Postfix Evaluation](NextNext40Days/PostfixEvaluation.py)
+- **Day 84:**
 
 ---
 
