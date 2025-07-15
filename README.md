@@ -137,7 +137,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 81:** [Max of min for every Window Size](NextNext40Days/MaxofMinForEveryWindowSize.py)
 - **Day 82:** [Get min From Stack](NextNext40Days/GetMinfromStack.py)
 - **Day 83:** [Postfix Evaluation](NextNext40Days/PostfixEvaluation.py)
-- **Day 84:**
+- **Day 84:** [Decode The String](NextNext40Days/DecodeTheString.py)
 
 ---
 
