@@ -139,6 +139,9 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 83:** [Postfix Evaluation](NextNext40Days/PostfixEvaluation.py)
 - **Day 84:** [Decode The String](NextNext40Days/DecodeTheString.py)
 
+### Queue & Deque
+
+- **Day 85:** [K Sized Subarray Maximum](NextNext40Days/KSizedSubArrayMaximum.py)
 ---
 
 ## 📌 Features
