@@ -142,6 +142,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 ### Queue & Deque
 
 - **Day 85:** [K Sized Subarray Maximum](NextNext40Days/KSizedSubArrayMaximum.py)
+- **Day 86:** [Longest Bounded Difference Subarrays](NextNext40Days/LongestBoundedDifferencesubarrays.py)
 ---
 
 ## 📌 Features
