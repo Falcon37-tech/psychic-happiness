@@ -143,6 +143,11 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 
 - **Day 85:** [K Sized Subarray Maximum](NextNext40Days/KSizedSubArrayMaximum.py)
 - **Day 86:** [Longest Bounded Difference Subarrays](NextNext40Days/LongestBoundedDifferencesubarrays.py)
+
+### Dynamic Programmming
+
+- **Day 87:** [Longest Increasing Subsequence](NextNext40Days/LongestIncreasingSubsequence.py)
+
 ---
 
 ## 📌 Features
