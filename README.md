@@ -149,6 +149,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 87:** [Longest Increasing Subsequence](NextNext40Days/LongestIncreasingSubsequence.py)
 - **Day 88:** [Longest String chain](NextNext40Days/LongestStringChain.py)
 - **Day 89:** [Longest Common Subsequence](NextNext40Days/LongestCommonSubsequence.py)
+- **Day 90:** [Longest Palindromic Subsequence](NextNext40Days/LongestPalindromicSubsequence.py)
 - 
 ---
 
