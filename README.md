@@ -152,6 +152,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 90:** [Longest Palindromic Subsequence](NextNext40Days/LongestPalindromicSubsequence.py)
 - **Day 91:** [Longeesr Palindrom in a String](NextNext40Days/LongestPalindrominaString.py)
 - **Day 92:** [Palindrome Substrings](NextNext40Days/PalindromeSubstrings.py)
+- **Day 93:** [Edit Diatance](NextNext40Days/EditDistance.py)
 - 
 ---
 
