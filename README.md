@@ -154,6 +154,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 92:** [Palindrome Substrings](NextNext40Days/PalindromeSubstrings.py)
 - **Day 93:** [Edit Diatance](NextNext40Days/EditDistance.py)
 - **Day 94:** [Ways to reach the n'th stairs](NextNext40Days/WaystoReachTheNthStairs.py)
+- **Day 95:** [Min Cost Climbing Stairs](NextNext40Days/MinCostClimbingStaris.py)
 - 
 ---
 
