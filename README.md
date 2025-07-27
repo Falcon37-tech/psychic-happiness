@@ -155,6 +155,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 93:** [Edit Diatance](NextNext40Days/EditDistance.py)
 - **Day 94:** [Ways to reach the n'th stairs](NextNext40Days/WaystoReachTheNthStairs.py)
 - **Day 95:** [Min Cost Climbing Stairs](NextNext40Days/MinCostClimbingStaris.py)
+- **Day 96:** [0-1 Knapsack Problem](NextNext40Days/0-1KnapsackProblem.py)
 - 
 ---
 
