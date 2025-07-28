@@ -156,6 +156,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 94:** [Ways to reach the n'th stairs](NextNext40Days/WaystoReachTheNthStairs.py)
 - **Day 95:** [Min Cost Climbing Stairs](NextNext40Days/MinCostClimbingStaris.py)
 - **Day 96:** [0-1 Knapsack Problem](NextNext40Days/0-1KnapsackProblem.py)
+- **Day 97:** [Coin Change(Count Ways)](NextNext40Days/CoinChange_CountWays.py)
 - 
 ---
 
