@@ -158,6 +158,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 96:** [0-1 Knapsack Problem](NextNext40Days/0-1KnapsackProblem.py)
 - **Day 97:** [Coin Change(Count Ways)](NextNext40Days/CoinChange_CountWays.py)
 - **Day 98:** [Coin Change(Minimum Cost)](NextNext40Days/CoinChange(MinimumCost).py)
+- **Day 99:** [Minimum Jumps](NextNext40Days/MinimumJumps.py)
 - 
 ---
 
