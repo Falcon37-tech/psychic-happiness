@@ -160,6 +160,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 98:** [Coin Change(Minimum Cost)](NextNext40Days/CoinChange(MinimumCost).py)
 - **Day 99:** [Minimum Jumps](NextNext40Days/MinimumJumps.py)
 - **Day 100:** [subset Sum Problem](NextNext40Days/SubsetSumProblem.py)
+- **Day 101:** [Stock Buy & Sell - Maximum K Transations Allowed](NextNext40Days/StockBuy&SellMaxKTransartionsAllowed.py)
 - 
 ---
 
