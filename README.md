@@ -162,6 +162,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 100:** [subset Sum Problem](NextNext40Days/SubsetSumProblem.py)
 - **Day 101:** [Stock Buy & Sell - Maximum K Transations Allowed](NextNext40Days/StockBuy&SellMaxKTransartionsAllowed.py)
 - **Day 102:** [Stickler Thief](NextNext40Days/SticklerThief.py)
+- **Day 103:** [Partition of Equal Subset](NextNext40Days/PartitionEqualSubset.py)
 - 
 ---
 
