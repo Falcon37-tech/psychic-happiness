@@ -163,6 +163,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 101:** [Stock Buy & Sell - Maximum K Transations Allowed](NextNext40Days/StockBuy&SellMaxKTransartionsAllowed.py)
 - **Day 102:** [Stickler Thief](NextNext40Days/SticklerThief.py)
 - **Day 103:** [Partition of Equal Subset](NextNext40Days/PartitionEqualSubset.py)
+- **Day 104:** [Stock Buy & Sell - Max 2 Transactions Allowed](NextNext40Days/StockBuyandSell-Max2Trascationallowed.py)
 - 
 ---
 
