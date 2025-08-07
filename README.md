@@ -166,6 +166,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 104:** [Stock Buy & Sell - Max 2 Transactions Allowed](NextNext40Days/StockBuyandSell-Max2Trascationallowed.py)
 - **Day 105:** [Stickler Thief II](NextNext40Days/SticklerThief2nd.py)
 - **Day 106:** [Total Decoding Message](NextNext40Days/TotalDecodingMessage.py)
+- **Day 107:** [Matrix Chain Multipliation](NextNext40Days/MatrixChainMulitipliation.py)
 - 
 ---
 
