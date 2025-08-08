@@ -167,6 +167,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 105:** [Stickler Thief II](NextNext40Days/SticklerThief2nd.py)
 - **Day 106:** [Total Decoding Message](NextNext40Days/TotalDecodingMessage.py)
 - **Day 107:** [Matrix Chain Multipliation](NextNext40Days/MatrixChainMulitipliation.py)
+- **Day 108:** [Boolean Parenthisization](NextNext40Days/BooleanParenthesization.py)
 - 
 ---
 
