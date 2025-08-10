@@ -168,11 +168,12 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 106:** [Total Decoding Message](NextNext40Days/TotalDecodingMessage.py)
 - **Day 107:** [Matrix Chain Multipliation](NextNext40Days/MatrixChainMulitipliation.py)
 - **Day 108:** [Boolean Parenthisization](NextNext40Days/BooleanParenthesization.py)
-- **Day 109L** [Word Break](NextNext40Days/WordBreak.py)
+- **Day 109:** [Word Break](NextNext40Days/WordBreak.py)
 
 ### Greedy
 
--
+- **Day 110:** [Minimum Platforms](NextNextNext40Days/MinimumPlatforms.py)
+- 
 ---
 
 ## 📌 Features
