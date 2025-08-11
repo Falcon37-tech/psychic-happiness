@@ -173,6 +173,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 ### Greedy
 
 - **Day 110:** [Minimum Platforms](NextNextNext40Days/MinimumPlatforms.py)
+- **Day 111:** [Activity Selection](NextNextNext40Days/ActivitySelection.py)
 - 
 ---
 
