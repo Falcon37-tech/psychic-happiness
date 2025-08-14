@@ -176,6 +176,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 111:** [Activity Selection](NextNextNext40Days/ActivitySelection.py)
 - **Day 112:** [Job Sequence Problem](NextNextNext40Days/JobSequenceProblem.py)
 - **Day 113:** [Gas Station](NextNextNext40Days/GasStation.py)
+- **Day 114:** [Maximize Partitions in a String](NextNextNext40Days/MazimizePartitionInAString..py)
 - 
 ---
 
