@@ -177,7 +177,12 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 112:** [Job Sequence Problem](NextNextNext40Days/JobSequenceProblem.py)
 - **Day 113:** [Gas Station](NextNextNext40Days/GasStation.py)
 - **Day 114:** [Maximize Partitions in a String](NextNextNext40Days/MazimizePartitionInAString..py)
+
+### Graph
+
+- **Day 115:** [DFS of Graph](NextNextNext40Days/dfsOFGraph.py)
 - 
+ 
 ---
 
 ## 📌 Features
