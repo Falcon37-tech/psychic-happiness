@@ -181,6 +181,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 ### Graph
 
 - **Day 115:** [DFS of Graph](NextNextNext40Days/dfsOFGraph.py)
+- **Day 116:** [BFS of Graph](NextNextNext40Days/BFSOfGraph.py)
 - 
  
 ---
