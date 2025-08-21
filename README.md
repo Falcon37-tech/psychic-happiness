@@ -186,6 +186,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 118:** [Undirected Graph Cycle](NextNextNext40Days/UndirectedGraphCycle.py)
 - **Day 119:** [Find the number of Island](NextNextNext40Days/FindTheNumberOfIsland.py)
 - **Day 120:** [Topological Sort](NextNextNext40Days/TopologicalSort.py)
+- **Day 121:** [Directed Graph Cycle](NextNextNext40Days/DirectedGraphCycle.py)
 - 
  
 ---
