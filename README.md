@@ -190,8 +190,9 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 122:** [Bridge edge in a Graph](NextNextNext40Days/BridgeEdgeInAGraph.py)
 - **Day 123:** [Articulation Point - 2nd](NextNextNext40Days/ArticulationPoint-II.py)
 - **Day 124:** [Minimum Cost to connect All Houses in a City](NextNextNext40Days/MinimumCostToConnectAllHousesInACity.py)
+- **Day 125:** [Dijkastra's Algorithm](NextNextNext40Days/DijkastraAlgorithm.py)
 - 
- 
+
 ---
 
 ## 📌 Features
