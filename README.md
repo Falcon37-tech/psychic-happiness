@@ -196,7 +196,11 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 128:** [Alien Dictionary](NextNextNext40Days/AlienDictionary.py)
 - **Day 129:** [Bellman Ford](NextNextNext40Days/BellmanFord.py)
 - **Day 130:** [Floyd Warshall](NextNextNext40Days/FloydWarshall.py)
-- 
+- **Day 131:** [Minimum Weight Cycle](NextNextNext40Days/MinimumWeightCycle.py)
+
+###
+
+-
 
 ---
 
