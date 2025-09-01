@@ -198,9 +198,10 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 130:** [Floyd Warshall](NextNextNext40Days/FloydWarshall.py)
 - **Day 131:** [Minimum Weight Cycle](NextNextNext40Days/MinimumWeightCycle.py)
 
-###
+### Trie
 
--
+- **Day 132:** [Implement Trie](NextNextNext40Days/ImplementTrie.py)
+- 
 
 ---
 
