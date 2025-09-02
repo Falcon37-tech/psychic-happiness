@@ -201,7 +201,9 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 ### Trie
 
 - **Day 132:** [Implement Trie](NextNextNext40Days/ImplementTrie.py)
-- 
+- **Day 133:** [Maximum XOR of two Numbes of a Array](NextNextNext40Days/MaximumXORoftwoNumbersinaArray.py)
+
+###
 
 ---
 
