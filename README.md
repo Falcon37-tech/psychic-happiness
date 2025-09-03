@@ -203,7 +203,10 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 132:** [Implement Trie](NextNextNext40Days/ImplementTrie.py)
 - **Day 133:** [Maximum XOR of two Numbes of a Array](NextNextNext40Days/MaximumXORoftwoNumbersinaArray.py)
 
-###
+### Bit Manipulation
+
+- **Day 134:** [Find Only Repetative Element from 0 to n-1](NextNextNext40Days/FindOnlyRepetativeElement.from 1 to n-1.py)
+- 
 
 ---
 
