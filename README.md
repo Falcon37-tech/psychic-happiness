@@ -207,7 +207,8 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 
 - **Day 134:** [Find Only Repetative Element from 0 to n-1](NextNextNext40Days/FindOnlyRepetativeElementfrom0ton-1.py)
 - **Day 135:** [Missing in Array](NextNextNext40Days/MissingInArray.py)
--  
+- **Day 136:** [Unique Number I](NextNextNext40Days/UniqueNumberI.py)
+- 
 
 ---
 
