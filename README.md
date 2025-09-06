@@ -127,7 +127,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 74:** [Merge K Sorted Linked Lists](NextNext40Days/MergeKsortedLinkedList.py)
 - **Day 75:** [Find Median in a Stream](NextNext40Days/FindMeadianInAStream.py)
 
-### Stack
+### 📚 Stack
 
 - **Day 76:** [Parenthesis Checker](NextNext40Days/ParenthesisChecker.py)
 - **Day 77:** [Longest Valid Parenthesis](NextNext40Days/LongestValidParenthesis.py)
@@ -139,12 +139,12 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 83:** [Postfix Evaluation](NextNext40Days/PostfixEvaluation.py)
 - **Day 84:** [Decode The String](NextNext40Days/DecodeTheString.py)
 
-### Queue & Deque
+### 🌀 Queue & Deque
 
 - **Day 85:** [K Sized Subarray Maximum](NextNext40Days/KSizedSubArrayMaximum.py)
 - **Day 86:** [Longest Bounded Difference Subarrays](NextNext40Days/LongestBoundedDifferencesubarrays.py)
 
-### Dynamic Programming
+### 🧩 Dynamic Programming
 
 - **Day 87:** [Longest Increasing Subsequence](NextNext40Days/LongestIncreasingSubsequence.py)
 - **Day 88:** [Longest String chain](NextNext40Days/LongestStringChain.py)
@@ -170,7 +170,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 108:** [Boolean Parenthisization](NextNext40Days/BooleanParenthesization.py)
 - **Day 109:** [Word Break](NextNext40Days/WordBreak.py)
 
-### Greedy
+### ⚡ Greedy
 
 - **Day 110:** [Minimum Platforms](NextNextNext40Days/MinimumPlatforms.py)
 - **Day 111:** [Activity Selection](NextNextNext40Days/ActivitySelection.py)
@@ -178,7 +178,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 113:** [Gas Station](NextNextNext40Days/GasStation.py)
 - **Day 114:** [Maximize Partitions in a String](NextNextNext40Days/MazimizePartitionInAString..py)
 
-### Graph
+### 🌐 Graph
 
 - **Day 115:** [DFS of Graph](NextNextNext40Days/dfsOFGraph.py)
 - **Day 116:** [BFS of Graph](NextNextNext40Days/BFSOfGraph.py)
@@ -198,12 +198,12 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 130:** [Floyd Warshall](NextNextNext40Days/FloydWarshall.py)
 - **Day 131:** [Minimum Weight Cycle](NextNextNext40Days/MinimumWeightCycle.py)
 
-### Trie
+### 🔡 Trie
 
 - **Day 132:** [Implement Trie](NextNextNext40Days/ImplementTrie.py)
 - **Day 133:** [Maximum XOR of two Numbes of a Array](NextNextNext40Days/MaximumXORoftwoNumbersinaArray.py)
 
-### Bit Manipulation
+### 💡 Bit Manipulation
 
 - **Day 134:** [Find Only Repetative Element from 0 to n-1](NextNextNext40Days/FindOnlyRepetativeElementfrom0ton-1.py)
 - **Day 135:** [Missing in Array](NextNextNext40Days/MissingInArray.py)
