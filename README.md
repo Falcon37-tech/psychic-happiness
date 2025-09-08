@@ -13,7 +13,6 @@
 
 ---
 
-
 # 🧠 Daily Coding Challenges by Kumar
 
 Welcome to my personal coding challenge journey — solving one problem at a time, building mastery across **160 essential Interview Questions**, organized by topic and day.  
