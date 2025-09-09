@@ -5,7 +5,7 @@
 
 ---
 
-## 🔥  Main MANTRA
+## 🔥 Main MANTRA
 
 - ❌ NO EXCUSES — ✅ ONLY CODING  
 - ❌ NO ERRORS — ✅ ONLY OUTPUT  
