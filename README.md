@@ -210,6 +210,10 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 - **Day 136:** [Unique Number I](NextNextNext40Days/UniqueNumberI.py)
 - **Day 137:** [Unique Number II](NextNextNext40Days/UniqueNumberII.py)
 
+### Extra Problems Mixed-
+
+- **Day 138:** [Split array in three equal sum subarrays](NextNextNext40Days/SplitArraytin3equalsu mSubarrrays.py)
+- 
 ---
 
 ## 📌 Features
