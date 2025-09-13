@@ -213,6 +213,7 @@ I'm solving these from platforms like **GeeksforGeeks**, **LeetCode**, **HackerR
 ### Extra Problems Mixed-
 
 - **Day 138:** [Split array in three equal sum subarrays](NextNextNext40Days/SplitArraytin3equalsu mSubarrrays.py)
+- **Day 138:** [Repetative Addition of Digits](NextNextNext40Days/RepetativeAdditionofDigits.py)
 - 
 ---
 
