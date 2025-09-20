@@ -10,6 +10,7 @@
 - ❌ NO EXCUSES — ✅ ONLY CODING  
 - ❌ NO ERRORS — ✅ ONLY OUTPUT  
 - ❌ NO REGRETS — ✅ ONLY RESULTS
+
 ---
 
 # 🧠 Daily Coding Challenges by Kumar
