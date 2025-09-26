@@ -2,7 +2,6 @@
 
 > **You're young — your mind & body too. Make every byte count.**
 > **Life gives to givers and counts every cheat.**
-
 ---
 
 ## 🔥 Main MANTRA
