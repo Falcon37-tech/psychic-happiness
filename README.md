@@ -4,7 +4,6 @@
 > **Life gives to givers and counts every cheat.**
 
 ---
-
 ## 🔥 Main MANTRA
 
 - ❌ NO EXCUSES — ✅ ONLY CODING  
